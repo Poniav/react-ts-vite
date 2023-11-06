@@ -12,5 +12,5 @@ yarn dev
 ## Launch Preview
 
 ```
-yarn dev
+yarn preview
 ```
